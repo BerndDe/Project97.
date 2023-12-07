@@ -1,0 +1,20 @@
+#dog_button {
+padding-right: 10px;
+padding-left: 10px;
+}
+
+#cat_button {
+    padding-right: 10px;
+    padding-left: 10px;
+    }
+
+#other_button {
+    padding-right: 10px;
+    padding-left: 10px;
+    }
+
+.titleh {
+    font: comic;
+    font-style: italic;
+ color: darkgreen;
+}
